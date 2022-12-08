@@ -13,8 +13,6 @@ jobs:
         uses: actions/checkout@v3
       - run: |
           make
-          chmod +x generate.sh
-          ./generate.sh
       - name: commit
         uses: stefanzweifel/git-auto-commit-action@v4.14.1
         with:
