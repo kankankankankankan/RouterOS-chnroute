@@ -150,6 +150,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*ablwang\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*aboluowang\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*about\\.google\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*about\\.me\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*aboutgfw\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*abs\\.edu\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*ac\\.jiruan\\.net\$" } on-error={}
@@ -187,6 +188,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*advertisercommunity\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*ae\\.hao123\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*ae\\.org\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*aei\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*aenhancers\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*aex\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*af\\.mil\$" } on-error={}
@@ -286,6 +288,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*aniscartujo\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*annatam\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*anobii\\.com\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*anonfiles\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*anontext\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*anonymitynetwork\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*anonymizer\\.com\$" } on-error={}
@@ -442,6 +445,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*baijie\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*bailandaily\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*baixing\\.me\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*baizhi\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*bakgeekhome\\.tk\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*banana-vpn\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*band\\.us\$" } on-error={}
@@ -464,7 +468,6 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*bastillepost\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*bayvoice\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*bb-chat\\.tv\$" } on-error={}
-:do { add forward-to=$dnsserver type=FWD regexp=".*bb\\.ttv\\.com\\.tw\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*bbc\\.co\\.uk\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*bbc\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*bbc\\.in\$" } on-error={}
@@ -787,6 +790,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*bullguard\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*bullog\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*bullogger\\.com\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*bumingbai\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*bunbunhk\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*busayari\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*business-humanrights\\.org\$" } on-error={}
@@ -969,6 +973,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*chinadigitaltimes\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*chinaelections\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*chinaeweekly\\.com\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*chinafile\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*chinafreepress\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*chinagate\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*chinageeks\\.org\$" } on-error={}
@@ -1079,6 +1084,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*cloakpoint\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*cloud\\.mail\\.ru\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*cloudflare-ipfs\\.com\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*cloudfunctions\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*club1069\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*clubhouseapi\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*clyp\\.it\$" } on-error={}
@@ -1404,6 +1410,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*doub\\.io\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*doubibackup\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*doubleclick\\.net\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*doublethinklab\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*doubmirror\\.cf\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*dougscripts\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*douhokanko\\.net\$" } on-error={}
@@ -1411,7 +1418,6 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*dowei\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*download\\.aircrack-ng\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*download\\.cnet\\.com\$" } on-error={}
-:do { add forward-to=$dnsserver type=FWD regexp=".*download\\.ithome\\.com\\.tw\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*dphk\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*dpp\\.org\\.tw\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*dpr\\.info\$" } on-error={}
@@ -1964,6 +1970,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*gamez\\.com\\.tw\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*gamousa\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*ganges\\.com\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*ganjing\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*ganjingworld\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*gaoming\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*gaopi\\.net\$" } on-error={}
@@ -2489,6 +2496,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*hhdcb3office\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*hhthesakyatrizin\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*hi-on\\.org\\.tw\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*hiccears\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*hidden-advent\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*hide\\.me\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*hidecloud\\.com\$" } on-error={}
@@ -2591,6 +2599,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*hmvdigital\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*hnjhj\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*hnntube\\.com\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*hojemacau\\.com\\.mo\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*hola\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*hola\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*holymountaincn\\.com\$" } on-error={}
@@ -2616,6 +2625,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*hostloc\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*hotair\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*hotav\\.tv\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*hotcoin\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*hotels\\.cn\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*hotfrog\\.com\\.tw\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*hotgoo\\.com\$" } on-error={}
@@ -2674,6 +2684,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*hulkshare\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*hulu\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*huluim\\.com\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*humanrightspressawards\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*hung-ya\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*hungerstrikeforaids\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*huobi\\.co\$" } on-error={}
@@ -2806,6 +2817,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*instagram\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*instanthq\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*institut-tibetain\\.org\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*interactivebrokers\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*international-news\\.newsmagazine\\.asia\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*internet\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*internetdefenseleague\\.org\$" } on-error={}
@@ -2867,6 +2879,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*italiatibet\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*itasoftware\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*itemdb\\.com\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*itemfix\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*ithelp\\.ithome\\.com\\.tw\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*its\\.caltech\\.edu\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*itsaol\\.com\$" } on-error={}
@@ -3063,6 +3076,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*koranmandarin\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*korenan2\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*kqes\\.net\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*kraken\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*ksdl\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*ksnews\\.com\\.tw\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*kspcoin\\.com\$" } on-error={}
@@ -3114,6 +3128,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*le-vpn\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*leafyvpn\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*lecloud\\.net\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*ledger\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*leeao\\.com\\.cn\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*lefora\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*left21\\.hk\$" } on-error={}
@@ -3453,6 +3468,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*money-link\\.com\\.tw\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*moneyhome\\.biz\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*monitorchina\\.org\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*monocloud\\.me\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*monster\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*moodyz\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*moon\\.fm\$" } on-error={}
@@ -3628,6 +3644,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*newhighlandvision\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*newipnow\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*newlandmagazine\\.com\\.au\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*newmitbbs\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*newnews\\.ca\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*news\\.cnyes\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*news\\.hk\\.msn\\.com\$" } on-error={}
@@ -3825,6 +3842,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*old-cat\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*old\\.honeynet\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*old\\.nabble\\.com\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*olehdtv\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*olevod\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*olumpo\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*olympicwatch\\.org\$" } on-error={}
@@ -3858,6 +3876,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*ontrac\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*oopsforum\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*open\\.com\\.hk\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*openai\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*openallweb\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*opendemocracy\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*opendn\\.xyz\$" } on-error={}
@@ -3950,6 +3969,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*pastebin\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*pastie\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*patreon\\.com\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*pawoo\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*paxful\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*pbs\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*pbwiki\\.com\$" } on-error={}
@@ -4248,7 +4268,6 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*rateyourmusic\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*rationalwiki\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*raw\\.githack\\.com\$" } on-error={}
-:do { add forward-to=$dnsserver type=FWD regexp=".*raw\\.githubusercontent\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*rawgit\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*rawgithub\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*razyboard\\.com\$" } on-error={}
@@ -4390,6 +4409,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*salvation\\.org\\.hk\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*samair\\.ru\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*sambhota\\.org\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*sankakucomplex\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*sankei\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*sanmin\\.com\\.tw\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*sapikachu\\.net\$" } on-error={}
@@ -4678,6 +4698,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*spreadshirt\\.es\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*spring4u\\.info\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*springboardplatform\\.com\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*springwood\\.me\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*sprite\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*sproutcore\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*sproxy\\.info\$" } on-error={}
@@ -4971,6 +4992,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*thlib\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*thomasbernhard\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*thongdreams\\.com\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*threadreaderapp\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*threatchaos\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*throughnightsfire\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*thumbzilla\\.com\$" } on-error={}
@@ -5177,6 +5199,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*tsunagarumon\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*tt1069\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*tttan\\.com\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*ttv\\.com\\.tw\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*ttvnw\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*tu8964\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*tubaholic\\.com\$" } on-error={}
@@ -5649,6 +5672,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*webjb\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*weblagu\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*webmproject\\.org\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*webpkgcache\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*webrtc\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*webrush\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*webs-tv\\.net\$" } on-error={}
@@ -5996,6 +6020,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*yong\\.hu\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*yorkbbs\\.ca\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*you-get\\.org\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*you\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*youdontcare\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*youjizz\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*youmaker\\.com\$" } on-error={}
